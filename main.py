@@ -58,4 +58,4 @@ tiger.swim()
 bird.swim()
 fish.swim()
 crocodile.fly()
-
+crocodile.swim()
